@@ -2,21 +2,21 @@
 
 📚 Índice  
   
-📌 1. Resumen Ejecutivo
-🧭 2. Introducción
-📊 3. Datos y Metodología
-📈 4. Análisis de Resultados
-💵 4.1 Ventas Totales y Transacciones
-🗂️ 4.2 Ventas por Categoría
-🌟 4.3 Calificación Promedio de Clientes
-📦 4.4 Productos Más y Menos Vendidos
-🚚 4.5 Costos de Envío Promedio
-🗺️ 4.6 Desempeño Geográfico
-🧠 5. Discusión de Hallazgos
-✅ 6. Recomendaciones
-📌 7. Conclusión
-✅Estado del proyecto
-Finalizado
+📌 1. Resumen Ejecutivo  
+🧭 2. Introducción  
+📊 3. Datos y Metodología  
+📈 4. Análisis de Resultados  
+💵 4.1 Ventas Totales y Transacciones  
+🗂️ 4.2 Ventas por Categoría  
+🌟 4.3 Calificación Promedio de Clientes  
+📦 4.4 Productos Más y Menos Vendidos  
+🚚 4.5 Costos de Envío Promedio  
+🗺️ 4.6 Desempeño Geográfico  
+🧠 5. Discusión de Hallazgos  
+✅ 6. Recomendaciones  
+📌 7. Conclusión  
+✅Estado del proyecto  
+Finalizado  
 
 📌 1. Resumen Ejecutivo
 Este informe presenta un análisis comparativo del rendimiento de cuatro tiendas (Tienda 1, Tienda 2, Tienda 3 y Tienda 4) de la cadena Alura Store, durante el periodo de 2020 a 2023. El objetivo principal es identificar la tienda con el menor rendimiento en diversas métricas clave para evaluar su posible cierre. El análisis se basó en datos de ventas, costos de envío y calificaciones de clientes. Los hallazgos clave revelan que la Tienda 3 consistentemente presenta los indicadores de rendimiento más bajos en ventas totales, número de transacciones y calificación promedio de los clientes. Por lo tanto, se recomienda considerar la Tienda 3 como la principal candidata para un posible cierre, sujeto a una evaluación más profunda de factores cualitativos.
