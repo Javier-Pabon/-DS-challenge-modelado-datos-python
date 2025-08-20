@@ -1,5 +1,7 @@
-🛒 Análisis Comparativo de Rendimiento de Tiendas – Alura Store. Toma Decisiones Cierre Tienda
-📚 Índice
+🛒 Análisis Comparativo de Rendimiento de Tiendas – Alura Store. Toma Decisiones Cierre Tienda    
+
+📚 Índice  
+  
 📌 1. Resumen Ejecutivo
 🧭 2. Introducción
 📊 3. Datos y Metodología
